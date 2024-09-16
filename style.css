@@ -1,0 +1,12 @@
+.carousel-item{
+    height: 70vh;
+    width: 100%;
+
+}
+@media screen and(max-width:576) {
+    .carousel-item{
+        height: 50vh;
+        width: 100%;
+    
+    }        
+}
